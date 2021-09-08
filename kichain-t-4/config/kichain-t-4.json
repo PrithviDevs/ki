@@ -1,0 +1,9 @@
+{
+  "chain-id": "kichain-t-4",
+  "rpc-addr": "http://x.x.x.x:26657",
+  "account-prefix": "tki",
+  "gas-adjustment": 1.5,
+  "gas-prices": "1utki",
+  "trusting-period": "336h",
+  "key":"testkey"
+}

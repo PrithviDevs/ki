@@ -1,0 +1,9 @@
+{
+  "chain-id": "autonomy",
+  "rpc-addr": "http://20.42.119.7:26657",
+  "account-prefix": "autonomy",
+  "gas-adjustment": 1.5,
+  "gas-prices": "1aut",
+  "trusting-period": "336h",
+  "key": "testkey"
+}
