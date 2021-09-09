@@ -36,11 +36,11 @@ rly chains list
 >Note: you can use same seed for both kichain and autonomy chain.
 - Adding ki testnet keys to relayer
 ```bash
-rly keys restore kichain-t-4  testkey "seed"
+rly keys restore kichain-t-4  testkey "mnemonic phrase"
 ```
 - Adding autonomy keys to relayer
 ```bash
-rly keys restore autonomy  testkey "seed"
+rly keys restore autonomy  testkey "mnemonic phrase"
 ```
 ### Query balance 
 - To verify configuration properly you can use account query in both chains
