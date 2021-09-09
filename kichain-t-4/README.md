@@ -33,7 +33,7 @@ rly chains add -f config/autonomy.json
 rly chains list 
 ```
 ### Adding keys
->Note: you can use same seed for both kichain and autonomy chain.
+>Note: you can use same menmonic pharse used in kichain,  for both kichain and autonomy chain.
 - Adding ki testnet keys to relayer
 ```bash
 rly keys restore kichain-t-4  testkey "mnemonic phrase"
